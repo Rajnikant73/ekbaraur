@@ -168,5 +168,5 @@ export const NAV_LINKS = [
 ];
 
 // WhatsApp information
-export const WHATSAPP_NUMBER = '9779876543210'; // Replace with actual number
+export const WHATSAPP_NUMBER = '+9779702683618'; // Replace with actual number
 export const WHATSAPP_MESSAGE = 'Hello Mews Media! I would like to inquire about your services.';
