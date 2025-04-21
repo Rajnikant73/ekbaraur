@@ -141,8 +141,8 @@ export const CONTACT_INFO = [
   {
     icon: PhoneCall,
     title: 'Phone',
-    details: '+977 9876543210',
-    link: 'tel:+9779876543210',
+    details: '+977 9702683618',
+    link: 'tel:+977 9702683618',
   },
   {
     icon: Mail,
